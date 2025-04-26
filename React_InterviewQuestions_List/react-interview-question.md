@@ -1,4 +1,3 @@
-
 1. Explain types of hooks (e.g:- useState, useRef, useEffect, useMemo, useContext and useCallback) and what are there usage in react js
 
 2. What is difference between state-full and state-less components in react js
