@@ -66,3 +66,5 @@
 34. What is difference between put and patch method in javascript
 
 35. What is difference between null and undefined in javascript
+
+36. What are features of ECMAScript 6 in javasctipt
