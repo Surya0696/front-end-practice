@@ -25,7 +25,7 @@
 
 13. What methods are used for optimizing the code in react js
 
-14. What is portal in react js and why it is used
+14. What is react portal in react js and why it is used
 
 15. What is difference between jsx and js in react js
 
