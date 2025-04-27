@@ -1,4 +1,3 @@
-
 1. Explain difference between var, let and const variable in javascript
 
 2. Explain the concept of hoisting in javascript
@@ -39,32 +38,32 @@
 
 20. What is difference between splice and slice in javascript
 
-22. What is difference between call, apply and bind in javascript
+21. What is difference between call, apply and bind in javascript
 
-23. How to manipulate attribute properties of html elements in javascript
+22. How to manipulate attribute properties of html elements in javascript
 
-24. What is difference between normal function and arrow function in javascript
+23. What is difference between normal function and arrow function in javascript
 
-25. What is difference between Object.freeze and Object.seal method in javascript
+24. What is difference between Object.freeze and Object.seal method in javascript
 
-26. What is window object in javascript
+25. What is window object in javascript
 
-27. what is difference between shift and unshift method in javascript
+26. what is difference between shift and unshift method in javascript
 
-28. How to create html elements in javascript
+27. How to create html elements in javascript
 
-29. What is destructuring in arrays and objects in javascript
+28. What is destructuring in arrays and objects in javascript
 
-30. What is fetch method in javascript
+29. What is fetch method in javascript
 
-31. What is difference between JSON.stringify and JSON.parse method in javasctipt
+30. What is difference between JSON.stringify and JSON.parse method in javasctipt
 
-32. How memory allocation works in javascript
+31. How memory allocation works in javascript
 
-33. What are restful api in javascript
+32. What are restful api in javascript
 
-34. What is difference between put and patch method in javascript
+33. What is difference between put and patch method in javascript
 
-35. What is difference between null and undefined in javascript
+34. What is difference between null and undefined in javascript
 
-36. What are features of ECMAScript 6 in javasctipt
+35. What are features of ECMAScript 6 in javasctipt
